@@ -1,0 +1,14 @@
+{
+  "body": {
+    "data": {
+      "msgId": "3a6207ce-ad45-4a24-ac15-7cf33c91b912",
+      "rspSts": "S",
+      "aplRefNo": "120823010",
+      "reqDt": 1777016932520,
+      "rspDt": 1777016943513
+    }
+  },
+  "code": "0",
+  "description": "Success",
+  "status": "success"
+}

@@ -1,0 +1,18 @@
+policies:
+  rules:
+    - clientId: b251c518-d3dc-4f0f-b6dc-19ea588ba853
+      channelName: INTERNAL
+      access:
+        - endPoint: /v1/servicingOrder/loanApps/*
+          method:
+            - POST
+            - GET
+            - PUT
+    - clientId: c3dc59a062b3ec5ed5058280f579d23c9c6d384373f0b696d2f4ffbf821a58aa
+      channelName: UNITAS
+      access:
+        - endPoint: /v1/servicingOrder/loanAppsawdawd/*
+          method:
+            - POST
+            - GET
+            - PUT

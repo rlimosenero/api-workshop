@@ -1,0 +1,11 @@
+{
+    "data": {
+        "rspDt": 1777884589864,
+        "rspSts": "F",
+        "xcpMsg": "Cannot connect to Hessian remote service at [http://localhost:8194/fs/remoting/fsAplDtlBoc]; nested exception is java.net.ConnectException: Connection refused: connect",
+        "msgId": "33409869-6a61-4d68-bb0e-b87ae6d3d576",
+        "aplRefNo": "0429260055",
+        "xcpCategory": "CNEERR",
+        "xcpId": "17d272fc-11ca-42e2-8069-87cf78194a2c"
+    }
+}

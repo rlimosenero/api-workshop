@@ -1,0 +1,7 @@
+release([
+    maven_command: "clean install verify -U",
+    custom_agent_label: "maven-dynamic-medium",
+    javaVersion: "17",
+    ubiVersion: "9",
+    multiTLS: true
+])
